@@ -1,6 +1,6 @@
 # Lyre
 
-A minimalist theme for [Hexo]. (This documentation is derived from hexo defualt theme [landscape]: https://github.com/hexojs/hexo-theme-landscape .)
+A minimalist theme for [Hexo]. (This documentation is derived from hexo defualt theme [landscape].)
 
 ## Installation
 
@@ -72,3 +72,4 @@ google_plus:
 - Hexo 2.4+
 
 [Hexo]: http://zespia.tw/hexo/
+[landscape]: https://github.com/hexojs/hexo-theme-landscape
